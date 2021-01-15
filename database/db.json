@@ -1,14 +1,73 @@
 {
-    "products" : [
-        {
-            "id": 1,
-            "date": "2021-01-12T03:20:41.718Z",
-            "name": "Meja Lipat",
-            "serial": 1682697,
-            "stock": 6,
-            "category": "Furniture",
-            "price": 567890,
-            "status": "avaiable"
-          }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "date": "2021-01-12T03:20:41.718Z",
+      "name": "Meja Lipat",
+      "serial": 1682697,
+      "stock": 6,
+      "category": "Furniture",
+      "price": 567890,
+      "status": "avaiable"
+    },
+    {
+      "date": "1610701654565",
+      "name": "stroberi",
+      "serial": "1654565",
+      "stock": 22,
+      "category": "food and drink",
+      "price": 4000,
+      "id": 2
+    },
+    {
+      "date": "1610701811385",
+      "name": "samsung",
+      "serial": "1811385",
+      "stock": 55,
+      "category": "handphone",
+      "price": 3000000,
+      "status": "available",
+      "id": 3
+    },
+    {
+      "date": "1610702349866",
+      "name": "laptop",
+      "serial": "2349866",
+      "stock": 2,
+      "category": "electronic",
+      "price": 12345,
+      "status": "available",
+      "id": 4
+    },
+    {
+      "date": "1610702401708",
+      "name": "kacamata",
+      "serial": "2401708",
+      "stock": 2,
+      "category": "fashion",
+      "price": 300000,
+      "status": "available",
+      "id": 5
+    },
+    {
+      "date": null,
+      "name": "kalender",
+      "serial": "4675451",
+      "stock": 200,
+      "category": "furniture",
+      "price": 10000,
+      "status": "available",
+      "id": 6
+    },
+    {
+      "date": "2021-01-09",
+      "name": "test",
+      "serial": "4779351",
+      "stock": 234,
+      "category": "electronic",
+      "price": 1,
+      "status": "available",
+      "id": 7
+    }
+  ]
 }
